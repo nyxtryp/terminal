@@ -1,0 +1,5 @@
+{
+  "kind": "node",
+  "build": { "command": null },
+  "run": { "command": "node index.js", "healthcheckPath": "/" }
+}
